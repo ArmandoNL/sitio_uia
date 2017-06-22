@@ -90,7 +90,7 @@
     <Content Include="about-us.html" />
     <Content Include="blog-post.html" />
     <Content Include="blog.html" />
-    <Content Include="contact-us.html" />
+    <Content Include="contacto.html" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\custom.css" />
     <Content Include="css\font-awesome.min.css" />
