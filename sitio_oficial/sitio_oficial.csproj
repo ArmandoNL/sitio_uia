@@ -68,7 +68,6 @@
   <ItemGroup>
     <Content Include="carrera_sistemas.html" />
     <Content Include="carrera_informatica.html" />
-    <Content Include="direccion.html" />
     <Content Include="packages.config" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
@@ -90,7 +89,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="direccion2.html" />
+    <Content Include="direccion_esc.html" />
     <Content Include="blog-post.html" />
     <Content Include="blog.html" />
     <Content Include="contacto.html" />
@@ -116,7 +115,6 @@
     <Content Include="img\icons\linkedin.png" />
     <Content Include="img\icons\rss.png" />
     <Content Include="img\icons\twitter.png" />
-    <Content Include="img\logo.png" />
     <Content Include="img\logos\logo-1.jpg" />
     <Content Include="img\logos\logo-10.jpg" />
     <Content Include="img\logos\logo-11.jpg" />
