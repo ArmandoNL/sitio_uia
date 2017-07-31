@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="carrera_sistemas.html" />
     <Content Include="carrera_informatica.html" />
+    <Content Include="img\logos\logoinfo.png" />
     <Content Include="img\logo_escuela.png" />
     <Content Include="packages.config" />
     <Content Include="fonts\fontawesome-webfont.eot" />
@@ -116,18 +117,6 @@
     <Content Include="img\icons\linkedin.png" />
     <Content Include="img\icons\rss.png" />
     <Content Include="img\icons\twitter.png" />
-    <Content Include="img\logos\logo-1.jpg" />
-    <Content Include="img\logos\logo-10.jpg" />
-    <Content Include="img\logos\logo-11.jpg" />
-    <Content Include="img\logos\logo-12.jpg" />
-    <Content Include="img\logos\logo-2.jpg" />
-    <Content Include="img\logos\logo-3.jpg" />
-    <Content Include="img\logos\logo-4.jpg" />
-    <Content Include="img\logos\logo-5.jpg" />
-    <Content Include="img\logos\logo-6.jpg" />
-    <Content Include="img\logos\logo-7.jpg" />
-    <Content Include="img\logos\logo-8.jpg" />
-    <Content Include="img\logos\logo-9.jpg" />
     <Content Include="img\portfolio\1.jpg" />
     <Content Include="img\portfolio\2.jpg" />
     <Content Include="img\portfolio\3.jpg" />
