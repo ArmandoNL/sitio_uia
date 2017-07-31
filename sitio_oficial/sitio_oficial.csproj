@@ -147,6 +147,9 @@
     <Content Include="js\jquery.easing.min.js" />
     <Content Include="js\modernizr-2.6.2-respond-1.1.0.min.js" />
     <Content Include="js\scrolling-nav.js" />
+    <Content Include="investigacion.html" />
+    <Content Include="extension.html" />
+    <Content Include="cronograma.html" />
     <Content Include="proyecto_ind.html" />
     <Content Include="proyectos.html" />
     <Content Include="carrera_software.html" />
